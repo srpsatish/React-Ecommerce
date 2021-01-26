@@ -4,14 +4,13 @@ import 'firebase/auth';
 
 
 const config = {
-    apiKey: "AIzaSyAPm6Habbw4WAd5xf-igBRcSAXkOoELkpI",
-    authDomain: "crwn-shopdb.firebaseapp.com",
-    databaseURL: "https://crwn-shopdb.firebaseio.com",
-    projectId: "crwn-shopdb",
-    storageBucket: "crwn-shopdb.appspot.com",
-    messagingSenderId: "620605524875",
-    appId: "1:620605524875:web:c5696d4ba348b33b1c7d8e",
-    measurementId: "G-3333D302M2"
+    apiKey: "AIzaSyCbaoSToAU0a0lQkSO7KqEJEqTN_op99OQ",
+    authDomain: "quiz-fc5e9.firebaseapp.com",
+    databaseURL: "https://quiz-fc5e9.firebaseio.com",
+    projectId: "quiz-fc5e9",
+    storageBucket: "quiz-fc5e9.appspot.com",
+    messagingSenderId: "1082087056850",
+    appId: "1:1082087056850:web:9cdf0a84d71fef1cf9540b"
 };
 
 export const createUserProfileDocument = async (userAuth, additionalData) => {
