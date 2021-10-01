@@ -2,7 +2,7 @@
 
 ## This is a learning project that I built when I was learning React.
 
-### Here I used React, Redux and React-Router-Dom in this project. I used Redux here because it make the dynamic data transfer between pages or js files easily and improve the dynamicity of the data.
+#### Here I used React, Redux and React-Router-Dom in this project. I used Redux here because it make the dynamic data transfer between pages or js files easily and improve the dynamicity of the data.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
